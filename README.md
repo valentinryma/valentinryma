@@ -8,7 +8,6 @@
 - 🔐 Me apasaiona la **seguridad informatica**, en especifico el area ofensiva.
 - 🧳 Vivo en **Córdoba 🌄**
 - 🍸 También soy bartender 😁
-<>
 
 ## Contacto ☕:
 <p align="center"><a href="https://www.linkedin.com/in/valen-ryma/" target="_blank"><img align="center" alt="Valentin Rymaszewski | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/valen_ryma/" target="_blank"><img align="center" alt="Valentin Rymaszewski| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" /></a> &nbsp;&nbsp;<a href="mailto:rymaszewski65@gmail.com" ><img align="center" alt="Valentin Rymaszewski | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a> &nbsp;&nbsp;<p>
