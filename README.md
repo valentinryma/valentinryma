@@ -5,7 +5,7 @@
 ## Sobre mi:
 - 👨🏼‍🎓 Estudie en un secundario con orientación  en el **desarrollo de software**
 - 💻 Me encuentro en un continuo proceso de aprendizaje de tecnologias relacionadas con el **desarrollo backend**.
-- 🔐 Me apasaiona la **seguridad informatica**, en especifico el area ofensiva.
+- 🔐 Me apasaiona la **seguridad informatica**.
 - 🧳 Vivo en **Córdoba 🌄**
 - 🍸 También soy bartender 😁
 
