@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Sobre mi:
-- 👨🏼‍🎓 Estudie en un secundario con orientación  en el **desarrollo de software** (Proa).
+- 👨🏼‍🎓 Estudie en un secundario con orientación  en el **desarrollo de software**
 - 💻 Me encuentro en un continuo proceso de aprendizaje de tecnologias relacionadas con el **desarrollo backend**.
 - 🔐 Me apasaiona la **seguridad informatica**, en especifico el area ofensiva.
 - 🧳 Vivo en **Córdoba 🌄**
