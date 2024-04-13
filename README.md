@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Valen 👋</h1>
-<h3 align="center">Apasionado del desarrollo de software y la seguridad informática</h3>
+<h3 align="center">Estudiante de desarrollo de software y seguridad informática</h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Sobre mi:
