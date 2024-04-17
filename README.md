@@ -3,11 +3,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Sobre mi:
-- 👨🏼‍🎓 Estudie en un secundario con orientación  en el **desarrollo de software**
-- 💻 Me encuentro en un continuo proceso de aprendizaje de tecnologias relacionadas con el **desarrollo backend**.
-- 🔐 Me apasaiona la **seguridad informatica**.
+- 👨🏼‍🎓 Estudie en un secundario con orientación en **desarrollo de software**
+- 💻 Me encuentro en un proceso de aprendizaje orientado al **desarrollo backend** y **seguridad informática**.
 - 🧳 Vivo en **Córdoba 🌄**
-- 🍸 También soy bartender 😁
 
 ## Contacto ☕:
 <p align="center"><a href="https://www.linkedin.com/in/valen-ryma/" target="_blank"><img align="center" alt="Valentin Rymaszewski | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/valen_ryma/" target="_blank"><img align="center" alt="Valentin Rymaszewski| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" /></a> &nbsp;&nbsp;<a href="mailto:rymaszewski65@gmail.com" ><img align="center" alt="Valentin Rymaszewski | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a> &nbsp;&nbsp;<p>
